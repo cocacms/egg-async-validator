@@ -24,7 +24,7 @@ Validate plugin for egg.
 
 see [async-validate](https://github.com/yiminghe/async-validator) for more information such as custom rule.
 
-[以中文查看](./README_zh-CN.md)
+[以中文查看](./README.zh_CN.md)
 
 
 ## Install
