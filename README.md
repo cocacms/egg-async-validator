@@ -79,7 +79,8 @@ exports.index = async ctx => {
 };
 ```
 rules see [async-validator#rules](https://github.com/yiminghe/async-validator#rules) for more detail.
-!!important:  `method`,`date`,`hex` in `type` does not apply to server - side form validation
+
+> !!important:  `method`,`date`,`hex` in `type` does not apply to server - side form validation
 
 ## License
 
