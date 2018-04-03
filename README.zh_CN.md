@@ -1,4 +1,4 @@
-# egg-async-validator
+# egg-async-validate
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -7,25 +7,25 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-async-validator.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-async-validator
-[travis-image]: https://img.shields.io/travis/eggjs/egg-async-validator.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-async-validator
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-async-validator.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-async-validator?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-async-validator.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-async-validator
-[snyk-image]: https://snyk.io/test/npm/egg-async-validator/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg-async-validator
-[download-image]: https://img.shields.io/npm/dm/egg-async-validator.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-async-validator
+[npm-image]: https://img.shields.io/npm/v/egg-async-validate.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/egg-async-validate
+[travis-image]: https://img.shields.io/travis/eggjs/egg-async-validate.svg?style=flat-square
+[travis-url]: https://travis-ci.org/eggjs/egg-async-validate
+[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-async-validate.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/eggjs/egg-async-validate?branch=master
+[david-image]: https://img.shields.io/david/eggjs/egg-async-validate.svg?style=flat-square
+[david-url]: https://david-dm.org/eggjs/egg-async-validate
+[snyk-image]: https://snyk.io/test/npm/egg-async-validate/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/egg-async-validate
+[download-image]: https://img.shields.io/npm/dm/egg-async-validate.svg?style=flat-square
+[download-url]: https://npmjs.org/package/egg-async-validate
 
 基于 [parameter](https://github.com/yiminghe/async-validator) 提供数据校验方法。
 
 ## 安装
 
 ```bash
-$ npm i egg-async-validator --save
+$ npm i egg-async-validate --save
 ```
 
 ## 启用
@@ -34,7 +34,7 @@ $ npm i egg-async-validator --save
 // {app_root}/config/plugin.js
 exports.asyncValidator = {
   enable: true,
-  package: 'egg-async-validator',
+  package: 'egg-async-validate',
 };
 ```
 
