@@ -1,7 +1,7 @@
 {
-  "name": "egg-async-validator",
+  "name": "egg-async-validate",
   "version": "1.0.0",
-  "description": "validator",
+  "description": "egg validate",
   "eggPlugin": {
     "name": "asyncValidator"
   },
@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-async-validator.git"
+    "url": "git+https://github.com/rojer95/egg-async-validator"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/rojer95/egg-async-validator/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-async-validator#readme",
+  "homepage": "https://github.com/rojer95/egg-async-validator#readme",
   "author": "rojer",
   "license": "MIT"
 }
